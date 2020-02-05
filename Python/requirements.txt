@@ -1,0 +1,2 @@
+skyfield==1.15
+poliastro==0.13.0
